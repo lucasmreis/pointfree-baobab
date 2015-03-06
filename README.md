@@ -11,6 +11,7 @@ var pb = require('pointfree-baobab');
 var compose = r.compose;
 var get = r.get;
 var push = pb.push;
+var log = pb.log;
 
 var state = new Baobab({
   foos = [1, 2, 3]
