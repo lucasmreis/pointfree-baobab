@@ -3,7 +3,7 @@ Point free wrappers for BaobabJS
 
 Example:
 
-'''javascript
+```javascript
 var r = require('ramda');
 var Baobab = require('baobab');
 var pb = require('pointfree-baobab');
