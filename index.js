@@ -12,8 +12,15 @@ var set = c(function(cursor, prop, x) {
   return cursor.set(prop, x).get();
 });
 
+var log = c(function(text, x) {
+  console.log(text, x);
+  return x;
+});
+
 module.exports = {
   push: push,
   edit: edit,
-  set: set
+  set: set,
+
+  log: log
 };
