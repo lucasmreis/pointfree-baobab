@@ -1,5 +1,5 @@
 # pointfree-baobab
-Point free wrappers for BaobabJS
+Point free wrappers for [BaobabJS](https://github.com/Yomguithereal/baobab)
 
 Example:
 
