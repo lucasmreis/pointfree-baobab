@@ -1,0 +1,29 @@
+{
+  "name": "pointfree-baobab",
+  "version": "0.1.0",
+  "description": "Point free wrappers for BaobabJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lucasmreis/pointfree-baobab.git"
+  },
+  "keywords": [
+    "functional",
+    "pointfree",
+    "tacit",
+    "state",
+    "baobab"
+  ],
+  "author": "Lucas Reis <lucasmreis@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lucasmreis/pointfree-baobab/issues"
+  },
+  "homepage": "https://github.com/lucasmreis/pointfree-baobab",
+  "dependencies": {
+    "curry": "^1.2.0"
+  }
+}
